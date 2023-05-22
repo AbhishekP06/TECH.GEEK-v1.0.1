@@ -4,7 +4,7 @@ import {useState, useEffect} from 'react'
 import '../components/PioneerCard.css'
 import Nav from './Nav'
 
-function Tech({}) {
+function Tech() {
   
   const [data, setData] = useState([])
   useEffect(() => {
