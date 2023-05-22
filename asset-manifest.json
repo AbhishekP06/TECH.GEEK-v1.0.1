@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TECH.GEEK-v1.0.1/static/css/main.1f7c3d4d.css",
+    "main.js": "/TECH.GEEK-v1.0.1/static/js/main.941f45ec.js",
+    "index.html": "/TECH.GEEK-v1.0.1/index.html",
+    "main.1f7c3d4d.css.map": "/TECH.GEEK-v1.0.1/static/css/main.1f7c3d4d.css.map",
+    "main.941f45ec.js.map": "/TECH.GEEK-v1.0.1/static/js/main.941f45ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f7c3d4d.css",
+    "static/js/main.941f45ec.js"
+  ]
+}
